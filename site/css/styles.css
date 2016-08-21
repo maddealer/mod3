@@ -39,11 +39,32 @@ body {
 	margin-bottom: 0;
 
 }
+.container {
+	
+
+
+	}
 hr {
 	margin: 0;
 	padding: 0;
 
 }
+h2 {
+	color: #00004d;
+}
+.row {
+	
+	background-color: #0040ff;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 60px;
+}
+.row p {
+	padding-top: 60px;
+}
+
 
 
 
